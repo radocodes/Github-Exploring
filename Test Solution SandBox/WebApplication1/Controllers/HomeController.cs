@@ -12,6 +12,8 @@ namespace WebApplication1.Controllers
     {
         public IActionResult Index()
         {
+            var test = 1;
+
             return View();
         }
 
