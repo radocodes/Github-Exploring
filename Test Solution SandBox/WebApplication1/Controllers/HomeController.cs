@@ -12,8 +12,7 @@ namespace WebApplication1.Controllers
     {
         public IActionResult Index()
         {
-            var test = 2;
-            var testA = 3;
+            var test = 1;
 
             return View();
         }
