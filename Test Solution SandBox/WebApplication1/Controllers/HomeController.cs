@@ -15,6 +15,7 @@ namespace WebApplication1.Controllers
             var test = 1;
             var myTest = 5;
             var myTestA = "A";
+            var myTestB = "B";
 
             return View();
         }
