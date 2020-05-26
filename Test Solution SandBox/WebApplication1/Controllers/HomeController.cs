@@ -13,7 +13,9 @@ namespace WebApplication1.Controllers
         public IActionResult Index()
         {
             var test = 1;
-            var myTest = 5; 
+            var myTest = 5;
+            var myTestA = "A";
+
             return View();
         }
 
